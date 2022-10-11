@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there !! 👋 I'm Carlos Solá -Full-stack developer
 
 <br />
-Soy un desarrollador web Full-Stack nacido en Mendoza, provincia de Argentina. Desde chico fuí muy inquieto y curioso por aprender y crear cosas nuevas. Encontré en la programación un mundo donde aprender y crear, y se ha vuelto una pasión en mi vida. Me gusta la música y se tocar varios instrumentos, la pintura y los juegos de mesa. Me considero una persona responsable y con pensamiento crítico. Me desenvuelvo con facilidad tanto en el front como en el back.
+Hola, soy Carlos, tengo 27 años y soy un desarrollador web full-stack de Argentina, nacido en la provinicia de Salta. Siempre fui muy curioso y creativo, desde chico que tenia una gran atraccion hacia la tecnologia, el diseño, el crear cosas nuevas. Primero estudie arquitectura donde aprendi a crear y diseñar proyectos con el fin de resolver y las necesidades del usuario. Años despues descubri el mundo de la programacion donde aprendí a crear y resolver problemas y ofrecer soluciones de una manera diferente que en mis años en Arquitectura pero con un mismo enfoque hacia el diseño funcional y visual, la experiencia de usuario y la resolucion de problemas y necesidades. Me considero una persona muy creativa, crítica, exigente conmigo mismo, proactiva, capaz de resolver problemas bajo presión y siempre dispuesta a seguir aprendiendo y a afrontar nuevos desafios. Me desenvuelvo con facilidad en el Back y el Front
 <br />
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
