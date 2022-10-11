@@ -12,7 +12,7 @@ Soy un desarrollador web Full-Stack nacido en Mendoza, provincia de Argentina. D
 •PostgreSQL
 •Express
 •Sequelize
-•Insomnia
+•Postman
 •Git
 •HTML
 •CSS
